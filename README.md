@@ -1,11 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/EaK02U9YVzutG/giphy.gif" alt="Matrix Code Rain" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Colten 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Creative+Coder;Lifelong+Learner&center=true&width=440&height=45&color=F7AF3E&vCenter=true&pause=1000&size=22" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/EaK02U9YVzutG/giphy.gif" alt="Matrix Code Rain" width="100%" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olerk16&show_icons=true&theme=gruvbox" alt="Colten's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coltenkrelo&show_icons=true&theme=gruvbox" alt="Colten's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -38,4 +38,7 @@
 
 ### 🔗 Connect with Me
 <p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://yourportfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox" /></a>
 </p>
