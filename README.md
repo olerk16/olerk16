@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/EaK02U9YVzutG/giphy.gif" alt="Matrix Code Rain" width="100%" />
-</p>
+
 
 <h1 align="center">Hi there, I'm Colten 👋</h1>
 
@@ -27,7 +25,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coltenkrelo&show_icons=true&theme=gruvbox" alt="Colten's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olerk16&show_icons=true&theme=gruvbox" alt="Colten's GitHub Stats" />
 </p>
 
 <p align="center">
