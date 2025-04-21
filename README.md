@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Creative+Coder;Lifelong+Learner&center=true&width=440&height=45&color=F7AF3E&vCenter=true&pause=1000&size=22" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/EaK02U9YVzutG/giphy.gif" alt="Matrix Code Rain" width="100%" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
