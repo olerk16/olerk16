@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Colten 👋</h1>
 
-<!--
-**olerk16/olerk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Creative+Coder;Lifelong+Learner&center=true&width=440&height=45&color=F7AF3E&vCenter=true&pause=1000&size=22" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🔭 I’m currently working on: A React + Node.js appointment app for my sauna business  
+- 🌱 Learning more about backend APIs and multiplayer game development  
+- 💬 Ask me about JavaScript, React, or how to build creative UIs  
+- ⚡ Fun fact: I once coded a monster care game inspired by Tamagotchi and The Sims!
+
+---
+
+### 🧰 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coltenkrelo&show_icons=true&theme=gruvbox" alt="Colten's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coltenkrelo&theme=gruvbox" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://yourportfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox" /></a>
+</p>
