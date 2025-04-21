@@ -10,13 +10,12 @@
 - 🔭 I’m currently working on: A React + Node.js appointment app for my sauna business  
 - 🌱 Learning more about backend APIs and multiplayer game development  
 - 💬 Ask me about JavaScript, React, or how to build creative UIs  
-- ⚡ Fun fact: I once coded a monster care game inspired by Tamagotchi and The Sims!
 
 ---
 
 ### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,express,mongodb,git,github,vscode,figma" />
 </p>
 
 ---
